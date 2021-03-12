@@ -13,8 +13,8 @@
       "repo": "https://github.com/chavyleung/scripts/blob/master/duokan/duokan.js",
       "icons": ["https://raw.githubusercontent.com/Orz-3/task/master/duokan.png", "https://raw.githubusercontent.com/Orz-3/task/master/duokan.png"],
       "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/duokan/duokan.js"
-    }，
-{
+    },
+	  {
 		"id": "chonghauapp",
 		"name": "葱花视频",
 		"keys": ["uid","chgetbody_video", "chgetbody_share", "chgetbody_timered", "chgetbody_taskcenter", "chgetbody_sharereward", "logbutton", "tzbutton","chgetbody_video_index"],
