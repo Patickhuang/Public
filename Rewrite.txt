@@ -1,8 +1,0 @@
-127.0.0.1 amemv.com
-127.0.0.1 iydsj.com
-127.0.0.1 k.sohu.com
-127.0.0.1 ssl.kohsocialapp.qq.com
-127.0.0.1 4gimg.map.qq.com
-127.0.0.1 news.ssp.qq.com
-127.0.0.1 newsso.map.qq.com
-127.0.0.1 r.inews.qq.com
