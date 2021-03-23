@@ -1,124 +1,241 @@
 ##
 127.0.0.1  localhost
 ::1  localhost
-##
+#
 127.0.0.1 amemv.com
+#
 127.0.0.1 iydsj.com
+#
 127.0.0.1 4gimg.map.qq.com
+#
 127.0.0.1 a.apicloud.com
+#
 127.0.0.1 a.qiumibao.com
+#
 127.0.0.1 acs.m.taobao.com
+#
 127.0.0.1 act.vip.iqiyi.com
+#
 127.0.0.1 api*.futunn.com
+#
 127.0.0.1 api.21jingji.com
+#
 127.0.0.1 api.caijingmobile.com
+#
 127.0.0.1 api.chelaile.net.cn
+#
 127.0.0.1 api.daydaycook.com.cn
+#
 127.0.0.1 api.douban.com
+#
 127.0.0.1 api.gotokeep.com
+#
 127.0.0.1 api.haohaozhu.cn
+#
 127.0.0.1api.huomao.com
+#
 127.0.0.1 api.intsig.net
+#
 127.0.0.1 api.izuiyou.com
+#
 127.0.0.1 api.jr.mi.com
+#
 127.0.0.1 api.jxedt.com
+#
 127.0.0.1 api.kkmh.com
+#
 127.0.0.1 api.m.jd.com
+#
 127.0.0.1 api.meipian.me
+#
 127.0.0.1 api.mgzf.com
+#
 127.0.0.1 api.psy-1.com
+#
 127.0.0.1 api.qbb6.com
+#
 127.0.0.1 api.rr.tv
+#
 127.0.0.1 api.cognitive.microsofttranslator.com
+#
 127.0.0.1 offline.microsofttranslator.com
+#
 127.0.0.1 sf*ttcdn-tos.pstatp.com
+#
 127.0.0.1 oset-api.open-adx.com
+#
 127.0.0.1 qidian.qpic.cn
+#
 127.0.0.1 www.icourse163.org
+#
 127.0.0.1 ulogs.umeng.com
+#
 127.0.0.1 127.0.0.1 ulogs.umengcloud.com
+#
 127.0.0.1 alogs.umeng.com
-127.0.0.1 alogs.umeng.co
+#
+127.0.0.1 alogs.umeng.com
+#
 127.0.0.1 *.byteoversea.com
+#
 127.0.0.1 *.cnbetacdn.com
+#
 127.0.0.1 101.201.62.22
+#
 127.0.0.1 113.105.222.132
+#
 127.0.0.1 113.96.109.*
+#
 127.0.0.1 118.178.214.118
+#
 127.0.0.1 121.14.89.216
+#
 127.0.0.1 121.9.212.178
+#
 127.0.0.1 14.21.76.30
+#
 127.0.0.1 183.232.237.194
+#
 127.0.0.1 183.232.246.225
+#
 127.0.0.1 183.60.159.227
+#
 127.0.0.1 59.37.96.220
+#
 127.0.0.1 789.kakamobi.cn
+#
 127.0.0.1 aarkissltrial.secure2.footprint.net
+#
 127.0.0.1 activity2.api.ofo.com
+#
 127.0.0.1 adm.10jqka.com.cn
+#
 127.0.0.1 adproxy.autohome.com.cn
+#
 127.0.0.1 afd.baidu.com
+#
 127.0.0.1 api.app.vhall.com
+#
 127.0.0.1 api.fengshows.com
+#
 127.0.0.1 api.k.sohu.com
+#
 127.0.0.1 api.laifeng.com
+#
 127.0.0.1 api.m.mi.com
+#
 127.0.0.1 api.mddcloud.com.cn
+#
 127.0.0.1 api-mifit.huami.com
+#
 127.0.0.1 api-mifit-cn.huami.com
+#
 127.0.0.1 app.10086.cn
+#
 127.0.0.1 app.m.zj.chinamobile.com
+#
 127.0.0.1 app2.autoimg.cn
+#
 127.0.0.1 appsdk.soku.com
+#
 127.0.0.1 atrace.chelaile.net.cn
+#
 127.0.0.1 capi.douyucdn.cn
+#
 127.0.0.1 cdn.kuaidi100.com
+#
 127.0.0.1 classbox2.kechenggezi.com
+#
 127.0.0.1 connect.facebook.net
+#
 127.0.0.1 creatives.ftimg.net
+#
 127.0.0.1 d.1qianbao.com
+#
 127.0.0.1 dapis.mting.info
+#
 127.0.0.1 dl.app.gtja.com
+#
 127.0.0.1 dongfeng.alicdn.com
+#
 127.0.0.1 dsp-impr2.youdao.com
+#
 127.0.0.1 erebor.douban.com
+#
 127.0.0.1 fm.fenqile.com
+#
 127.0.0.1 fuss10.elemecdn.com
+#
 127.0.0.1 g1.163.com
+#
 127.0.0.1 gorgon.youdao.com
+#
 127.0.0.1 hm.xiaomi.com
+#
 127.0.0.1 hui.sohu.com
+#
 127.0.0.1 i1.hoopchina.com.cn
+#
 127.0.0.1 iface2.iqiyi.com
+#
 127.0.0.1 img.zuoyebang.cc
+#
 127.0.0.1 img1.126.net
+#
 127.0.0.1 impservice.dictapp.youdao.com
+#
 127.0.0.1 impservice.youdao.com
+#
 127.0.0.1 kano.guahao.cn
+#
 127.0.0.1 lf.snssdk.com
+#
 127.0.0.1 lives.l.qq.com
+#
 127.0.0.1 m.aty.sohu.com
+#
 127.0.0.1 m5.amap.com
+#
 127.0.0.1 ma.ofo.com
+#
 127.0.0.1 mage.if.qidian.com
+#
 127.0.0.1 mapi.appvipshop.com
+#
 127.0.0.1 mbl.56.com
+#
 127.0.0.1 mimg.127.netmmg.aty.sohu.com
+#
 127.0.0.1 mmgr.gtimg.com
+#
 127.0.0.1 nex.163.com
+#
 127.0.0.1 oimagea4.ydstatic.com
+#
 127.0.0.1 oimagec2.ydstatic.com
+#
 127.0.0.1 p.kuaidi100.com
+#
 127.0.0.1 p1.music.126.net
+#
 127.0.0.1 pic.k.sohu.com
+#
 127.0.0.1 pic1.chelaile.net.cn
+#
 127.0.0.1 ress.dxpmedia.com
+#
 127.0.0.1 rm.aarki.net
+#
 127.0.0.1 sso.ifanr.com
+#
 127.0.0.1 static.api.m.panda.tv
+#
 127.0.0.1 staticlive.douyucdn.cn
+#
 127.0.0.1 storage.wax.weibo.com
+#
 127.0.0.1 supportda.ofo.com
+#
 127.0.0.1 ups.youku.com
 127.0.0.1 wapwenku.baidu.com
 127.0.0.1 wenku.baidu.com
