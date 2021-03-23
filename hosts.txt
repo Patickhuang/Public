@@ -1,453 +1,318 @@
-##
-127.0.0.1  localhost
-::1  localhost
-#
-127.0.0.1 amemv.com
-#
-127.0.0.1 iydsj.com
-#
-127.0.0.1 4gimg.map.qq.com
-#
-127.0.0.1 a.apicloud.com
-#
-127.0.0.1 a.qiumibao.com
-#
-127.0.0.1 acs.m.taobao.com
-#
-127.0.0.1 act.vip.iqiyi.com
-#
-127.0.0.1 api*.futunn.com
-#
-127.0.0.1 api.21jingji.com
-#
-127.0.0.1 api.caijingmobile.com
-#
-127.0.0.1 api.chelaile.net.cn
-#
-127.0.0.1 api.daydaycook.com.cn
-#
-127.0.0.1 api.douban.com
-#
-127.0.0.1 api.gotokeep.com
-#
-127.0.0.1 api.haohaozhu.cn
-#
-127.0.0.1api.huomao.com
-#
-127.0.0.1 api.intsig.net
-#
-127.0.0.1 api.izuiyou.com
-#
-127.0.0.1 api.jr.mi.com
-#
-127.0.0.1 api.jxedt.com
-#
-127.0.0.1 api.kkmh.com
-#
-127.0.0.1 api.m.jd.com
-#
-127.0.0.1 api.meipian.me
-#
-127.0.0.1 api.mgzf.com
-#
-127.0.0.1 api.psy-1.com
-#
-127.0.0.1 api.qbb6.com
-#
-127.0.0.1 api.rr.tv
-#
-127.0.0.1 api.cognitive.microsofttranslator.com
-#
-127.0.0.1 offline.microsofttranslator.com
-#
-127.0.0.1 sf*ttcdn-tos.pstatp.com
-#
-127.0.0.1 oset-api.open-adx.com
-#
-127.0.0.1 qidian.qpic.cn
-#
-127.0.0.1 www.icourse163.org
-#
-127.0.0.1 ulogs.umeng.com
-#
-127.0.0.1 127.0.0.1 ulogs.umengcloud.com
-#
-127.0.0.1 alogs.umeng.com
-#
-127.0.0.1 alogs.umeng.com
-#
-127.0.0.1 *.byteoversea.com
-#
-127.0.0.1 *.cnbetacdn.com
-#
-127.0.0.1 101.201.62.22
-#
-127.0.0.1 113.105.222.132
-#
-127.0.0.1 113.96.109.*
-#
-127.0.0.1 118.178.214.118
-#
-127.0.0.1 121.14.89.216
-#
-127.0.0.1 121.9.212.178
-#
-127.0.0.1 14.21.76.30
-#
-127.0.0.1 183.232.237.194
-#
-127.0.0.1 183.232.246.225
-#
-127.0.0.1 183.60.159.227
-#
-127.0.0.1 59.37.96.220
-#
-127.0.0.1 789.kakamobi.cn
-#
-127.0.0.1 aarkissltrial.secure2.footprint.net
-#
-127.0.0.1 activity2.api.ofo.com
-#
-127.0.0.1 adm.10jqka.com.cn
-#
-127.0.0.1 adproxy.autohome.com.cn
-#
-127.0.0.1 afd.baidu.com
-#
-127.0.0.1 api.app.vhall.com
-#
-127.0.0.1 api.fengshows.com
-#
-127.0.0.1 api.k.sohu.com
-#
-127.0.0.1 api.laifeng.com
-#
-127.0.0.1 api.m.mi.com
-#
-127.0.0.1 api.mddcloud.com.cn
-#
-127.0.0.1 api-mifit.huami.com
-#
-127.0.0.1 api-mifit-cn.huami.com
-#
-127.0.0.1 app.10086.cn
-#
-127.0.0.1 app.m.zj.chinamobile.com
-#
-127.0.0.1 app2.autoimg.cn
-#
-127.0.0.1 appsdk.soku.com
-#
-127.0.0.1 atrace.chelaile.net.cn
-#
-127.0.0.1 capi.douyucdn.cn
-#
-127.0.0.1 cdn.kuaidi100.com
-#
-127.0.0.1 classbox2.kechenggezi.com
-#
-127.0.0.1 connect.facebook.net
-#
-127.0.0.1 creatives.ftimg.net
-#
-127.0.0.1 d.1qianbao.com
-#
-127.0.0.1 dapis.mting.info
-#
-127.0.0.1 dl.app.gtja.com
-#
-127.0.0.1 dongfeng.alicdn.com
-#
-127.0.0.1 dsp-impr2.youdao.com
-#
-127.0.0.1 erebor.douban.com
-#
-127.0.0.1 fm.fenqile.com
-#
-127.0.0.1 fuss10.elemecdn.com
-#
-127.0.0.1 g1.163.com
-#
-127.0.0.1 gorgon.youdao.com
-#
-127.0.0.1 hm.xiaomi.com
-#
-127.0.0.1 hui.sohu.com
-#
-127.0.0.1 i1.hoopchina.com.cn
-#
-127.0.0.1 iface2.iqiyi.com
-#
-127.0.0.1 img.zuoyebang.cc
-#
-127.0.0.1 img1.126.net
-#
-127.0.0.1 impservice.dictapp.youdao.com
-#
-127.0.0.1 impservice.youdao.com
-#
-127.0.0.1 kano.guahao.cn
-#
-127.0.0.1 lf.snssdk.com
-#
-127.0.0.1 lives.l.qq.com
-#
-127.0.0.1 m.aty.sohu.com
-#
-127.0.0.1 m5.amap.com
-#
-127.0.0.1 ma.ofo.com
-#
-127.0.0.1 mage.if.qidian.com
-#
-127.0.0.1 mapi.appvipshop.com
-#
-127.0.0.1 mbl.56.com
-#
-127.0.0.1 mimg.127.netmmg.aty.sohu.com
-#
-127.0.0.1 mmgr.gtimg.com
-#
-127.0.0.1 nex.163.com
-#
-127.0.0.1 oimagea4.ydstatic.com
-#
-127.0.0.1 oimagec2.ydstatic.com
-#
-127.0.0.1 p.kuaidi100.com
-#
-127.0.0.1 p1.music.126.net
-#
-127.0.0.1 pic.k.sohu.com
-#
-127.0.0.1 pic1.chelaile.net.cn
-#
-127.0.0.1 ress.dxpmedia.com
-#
-127.0.0.1 rm.aarki.net
-#
-127.0.0.1 sso.ifanr.com
-#
-127.0.0.1 static.api.m.panda.tv
-#
-127.0.0.1 staticlive.douyucdn.cn
-#
-127.0.0.1 storage.wax.weibo.com
-#
-127.0.0.1 supportda.ofo.com
-#
-127.0.0.1 ups.youku.com
-127.0.0.1 wapwenku.baidu.com
-127.0.0.1 wenku.baidu.com
-127.0.0.1 www.facebook.com
-127.0.0.1 www.ft.com
-127.0.0.1 www.oschina.net
-127.0.0.1 api-mifit.huami.com
-127.0.0.1 api-163.biliapi.net
-127.0.0.1 pan-api.bitqiu.com
-127.0.0.1 api.feng.com
-127.0.0.1 m.tuniu.com
-127.0.0.1 img.meituan.net
-127.0.0.1 sdkapp.uve.weibo.com
-127.0.0.1 ptmpcap.caocaokeji.cn
-127.0.0.1 creditcardapp.bankcomm.com
-127.0.0.1 newapp.szsmk.com
-127.0.0.1 client.qunar.com
-127.0.0.1 mpcs.suning.com
-127.0.0.1 api2.helper.qq.com
-127.0.0.1 cdnfile1.msstatic.com
-127.0.0.1 res.xiaojukeji.com
-127.0.0.1 cube.elemecdn.com
-127.0.0.1 dimg04.c-ctrip.com
-127.0.0.1 prom.mobile.gome.com.cn
-127.0.0.1 y.gtimg.cn
-127.0.0.1 du.hupucdn.com
-127.0.0.1 interfac*.music.163.com
-127.0.0.1 yxyapi2.drcuiyutao.com
-127.0.0.1 api.vistopia.com.cn
-127.0.0.1 capis-clb.didapinche.com
-127.0.0.1 api.jxedt.com
-127.0.0.1 mi.gdt.qq.com
-127.0.0.1 richmanapi.jxedt.com
-127.0.0.1 nfmovies.com
-127.0.0.1 app-api.smzdm.com
-127.0.0.1 emdcadvertise.eastmoney.com
-127.0.0.1 101.201.175.228
-127.0.0.1 182.92.251.113
-127.0.0.1 api.smzdm.com
-127.0.0.1 api.vistopia.com.cn
-127.0.0.1 api.waitwaitpay.com
-127.0.0.1 api.wallstreetcn.com
-127.0.0.1 api.weibo.cn
-127.0.0.1 api.xiachufang.com
-127.0.0.1 api.xueqiu.com
-127.0.0.1 api.yangkeduo.com
-127.0.0.1 api.zhihu.com
-127.0.0.1 api.zhuishushenqi.com
-127.0.0.1 api-mifit*.huami.com
-127.0.0.1 api-release.wuta-cam.com
-127.0.0.1 app.58.com
-127.0.0.1 app.api.ke.com
-127.0.0.1 app.bilibili.com
-127.0.0.1 app.mixcapp.com
-127.0.0.1 app.poizon.com
-127.0.0.1 app.variflight.com
-127.0.0.1 app.wy.guahao.com
-127.0.0.1 app.xinpianchang.com
-127.0.0.1 app.yinxiang.com
-127.0.0.1 app.zhuanzhuan.com
-127.0.0.1 appapi.huazhu.com
-127.0.0.1 app-api.smzdm.com
-127.0.0.1 appconf.mail.163.com
-127.0.0.1 appv6.55haitao.com
-127.0.0.1 b.zhuishushenqi.com
-127.0.0.1 business-cdn.shouji.sogou.com
-127.0.0.1 c.m.163.com
-127.0.0.1 cap.caocaokeji.cn
-127.0.0.1 capi.mwee.cn
-127.0.0.1 ccsp-egmas.sf-express.com
-127.0.0.1 cdn.moji.com 
-127.0.0.1 cdnfile1.msstatic.com
-127.0.0.1 channel.beitaichufang.com
-127.0.0.1 client.mail.163.com
-127.0.0.1 clientaccess.10086.cn
-127.0.0.1 cms.daydaycook.com.cn
-127.0.0.1 consumer.fcbox.com
-127.0.0.1 creditcardapp.bankcomm.com
-127.0.0.1 daoyu.sdo.com
-127.0.0.1 dl.app.gtja.com
-127.0.0.1 dsa-mfp.fengshows.cn
-127.0.0.1 dxy.com, e.dangdang.com
-127.0.0.1 easyreadfs.nosdn.127.net
-127.0.0.1 g.cdn.pengpengla.com
-127.0.0.1 gateway.shouqiev.com
-127.0.0.1 guide-acs.m.taobao.com
-127.0.0.1 gw.alicdn.com
-127.0.0.1 gw.csdn.net
-127.0.0.1 gw-passenger.01zhuanche.com
-127.0.0.1 heic.alicdn.com
-127.0.0.1 i.ys7.com
-127.0.0.1 iapi.bishijie.com
-127.0.0.1 iface.iqiyi.com
-127.0.0.1 ih2.ireader.com
-127.0.0.1 imeclient.openspeech.cn
-127.0.0.1 img.jiemian.com
-127.0.0.1 img01.10101111cdn.com
-127.0.0.1 interface.music.163.com
-127.0.0.1 ios.lantouzi.com
-127.0.0.1 ios.wps.cn
-127.0.0.1 jump2.bdimg.com
-127.0.0.1 kaola-haitao.oss.kaolacdn.com
-127.0.0.1 learn.chaoxing.com
-127.0.0.1 list-app-m.i4.cn
-127.0.0.1 m*.amap.com
-127.0.0.1 m.client.10010.com
-127.0.0.1 m.ibuscloud.com
-127.0.0.1 m.tuniu.com
-127.0.0.1 m.yap.yahoo.com
-127.0.0.1 manga.bilibili.com
-127.0.0.1 mapi.mafengwo.cn
-127.0.0.1 media.qyer.com
-127.0.0.1 mlife.jf365.boc.cn
-127.0.0.1 mob.mddcloud.com.cn
-127.0.0.1 mobi.360doc.com
-127.0.0.1 mp.weixin.qq.com
-127.0.0.1 mrobot.pcauto.com.cn
-127.0.0.1 mrobot.pconline.com.cn
-127.0.0.1 ms.jr.jd.com
-127.0.0.1 msspjh.emarbox.com
-127.0.0.1 news.ssp.qq.com
-127.0.0.1 newsso.map.qq.com
-127.0.0.1 nnapp.cloudbae.cn
-127.0.0.1 open.qyer.com
-127.0.0.1 p.du.163.com
-127.0.0.1 pan.baidu.com
-127.0.0.1 pic*.chelaile.net
-127.0.0.1 pic1cdn.cmbchina.com
-127.0.0.1 pocketuni.net
-127.0.0.1 portal-xunyou.qingcdn.com
-127.0.0.1 promo.xueqiu.com, pss.txffp.com
-127.0.0.1 r.inews.qq.com
-127.0.0.1 render.alipay.com
-127.0.0.1 res.xiaojukeji.com
-127.0.0.1 resrelease.wuta-cam.com
-127.0.0.1 restapi.iyunmai.com
-127.0.0.1 richmanapi.jxedt.com
-127.0.0.1 rtbapi.douyucdn.cn
-127.0.0.1 s*.zdmimg.com
-127.0.0.1 s.youtube.com
-127.0.0.1 service.4gtv.tv
-127.0.0.1 slapi.oray.net
-127.0.0.1 smkmp.96225.com
-127.0.0.1 snailsleep.net
-127.0.0.1 ss0.bdstatic.com
-127.0.0.1 ssl.kohsocialapp.qq.com
-127.0.0.1 static.vuevideo.net
-127.0.0.1 static1.keepcdn.com
-127.0.0.1 status.boohee.com
-127.0.0.1 support.you.163.com
-127.0.0.1 thor.weidian.com
-127.0.0.1 tieba.baidu.com
-127.0.0.1 tiku.zhan.com
-127.0.0.1 weibointl.api.weibo.cn
-127.0.0.1 www.bodivis.com.cn
-127.0.0.1 www.dandanzan.com
-127.0.0.1 www.flyertea.com
-127.0.0.1 www.hxeduonline.com
-127.0.0.1 www.icourse163.org
-127.0.0.1 www.iyingdi.cn
-127.0.0.1 www.tieba.com
-127.0.0.1 www.youtube.com
-127.0.0.1 www.zhihu.com
-127.0.0.1 www.zybang.com
-127.0.0.1 ixyz.cnki.net
-127.0.0.1 xyst.yuanfudao.com
-127.0.0.1 youtubei.googleapis.com
-127.0.0.1 yxyapi*.drcuiyutao.com
-127.0.0.1 zhidao.baidu.com
-127.0.0.1 *.amemv.com
-127.0.0.1 *.iydsj.com
-127.0.0.1 *.k.sohu.com
-127.0.0.1 *.kakamobi.cn
-127.0.0.1 *.kingsoft-office-service.com
-127.0.0.1 *.meituan.net
-127.0.0.1 *.musical.ly
-127.0.0.1 *.ofo.com
-127.0.0.1 *.pstatp.com
-127.0.0.1 *.snssdk.com
-127.0.0.1 *.tiktokv.com
-127.0.0.1 *.tv.sohu.com
-127.0.0.1 *.uve.weibo.com
-127.0.0.1 *.ydstatic.com
-127.0.0.1 101.201.175.228
-127.0.0.1 115.159.231.79
-127.0.0.1 119.18.193.135
-127.0.0.1 123.59.31.1
-127.0.0.1 154.8.131.171
-127.0.0.1 182.92.251.113
-127.0.0.1 *.googlevideo.com
-127.0.0.1 api.weibo.cn
-127.0.0.1 mapi.weibo.com
-127.0.0.1 *.uve.weibo.com
-127.0.0.1 trade-acs.m.taobao.com
-127.0.0.1 api.m.jd.com
-127.0.0.1 ios.prod.ftl.netflix.com
+!! https://a.bestcontentitem.top/warp/*?r=
+!
+||amemv.com^
+||iydsj.com^
+||4gimg.map.qq.com^
+||a.apicloud.com^
+||a.qiumibao.com^
+||acs.m.taobao.com^
+||act.vip.iqiyi.com^
+||api*.futunn.com^
+||api.21jingji.com^
+||api.caijingmobile.com^
+||api.chelaile.net.cn^
+||api.daydaycook.com.cn^
+||api.douban.com^
+||api.gotokeep.com^
+||api.haohaozhu.cn^
+||api.huomao.com^
+||api.intsig.net^
+||api.izuiyou.com^
+||api.jr.mi.com^
+||api.jxedt.com^
+||api.kkmh.com^
+||api.m.jd.com^
+||api.meipian.me^
+||api.mgzf.com^
+||api.psy-1.com^
+||api.qbb6.com^
+|| api.rr.tv^
+||api.cognitive.microsofttranslator.com^
+||offline.microsofttranslator.com^
+||sf*ttcdn-tos.pstatp.com^
+||oset-api.open-adx.com^
+||qidian.qpic.cn^
+||www.icourse163.org^
+||ulogs.umeng.com^
+||ulogs.umengcloud.com^
+||alogs.umeng.com^
+||alogs.umeng.com^
+||*.byteoversea.com^
+||*.cnbetacdn.com^
+||101.201.62.22^
+||113.105.222.132^
+||113.96.109.*^
+||118.178.214.118^
+||121.14.89.216^
+||121.9.212.178^
+||14.21.76.30^
+||183.232.237.194^
+||183.232.246.225^
+||183.60.159.227^
+||59.37.96.220^
+||789.kakamobi.cn^
+||aarkissltrial.secure2.footprint.net^
+||activity2.api.ofo.com^
+||adm.10jqka.com.cn^
+||adproxy.autohome.com.cn^
+||afd.baidu.com^
+||api.app.vhall.com^
+||api.fengshows.com^
+||api.k.sohu.com^
+||api.laifeng.com^
+||api.m.mi.com^
+||api.mddcloud.com.cn^
+||api-mifit.huami.com^
+||api-mifit-cn.huami.com^
+||app.10086.cnv
+||app.m.zj.chinamobile.com^
+||app2.autoimg.cn^
+||appsdk.soku.com^
+||atrace.chelaile.net.cn^
+||capi.douyucdn.cn^
+||cdn.kuaidi100.com^
+||classbox2.kechenggezi.com^
+||connect.facebook.net^
+||creatives.ftimg.net^
+||d.1qianbao.com^
+||dapis.mting.info^
+||dl.app.gtja.com^
+||dongfeng.alicdn.com^
+||dsp-impr2.youdao.com^
+||erebor.douban.com^
+||fm.fenqile.com^
+||fuss10.elemecdn.com^
+||g1.163.com^
+||gorgon.youdao.com^
+||hm.xiaomi.com^
+||hui.sohu.comv
+||i1.hoopchina.com.cn^
+||iface2.iqiyi.com^
+||img.zuoyebang.cc^
+||img1.126.net^
+||impservice.dictapp.youdao.com^
+||impservice.youdao.com^
+||kano.guahao.cn^
+||lf.snssdk.com^
+||lives.l.qq.com^
+||m.aty.sohu.com^
+||m5.amap.com^
+||ma.ofo.com^
+||mage.if.qidian.com^
+||mapi.appvipshop.com^
+||mbl.56.com^
+||mimg.127.netmmg.aty.sohu.com^
+||mmgr.gtimg.com^
+||nex.163.com^
+||oimagea4.ydstatic.com^
+||oimagec2.ydstatic.com^
+||p.kuaidi100.com^
+||p1.music.126.net^
+||pic.k.sohu.com^
+||pic1.chelaile.net.cn^
+||ress.dxpmedia.com^
+||rm.aarki.net^
+||sso.ifanr.com^
+||static.api.m.panda.tv^
+||staticlive.douyucdn.cn^
+||storage.wax.weibo.comv
+||supportda.ofo.comv
+||ups.youku.com^
+||wapwenku.baidu.com^
+||wenku.baidu.com^
+||www.facebook.com^
+||www.ft.com^
+||www.oschina.net^
+||api-mifit.huami.com^
+||api-163.biliapi.net^
+||pan-api.bitqiu.com^
+||api.feng.com^
+||m.tuniu.com^
+||img.meituan.net^
+||sdkapp.uve.weibo.com^
+||ptmpcap.caocaokeji.cn^
+||creditcardapp.bankcomm.com^
+||newapp.szsmk.com^
+||client.qunar.com^
+||mpcs.suning.com^
+||api2.helper.qq.com^
+||cdnfile1.msstatic.com^
+||res.xiaojukeji.com^
+||cube.elemecdn.com^
+||dimg04.c-ctrip.com^
+||prom.mobile.gome.com.cn^
+||y.gtimg.cn^
+||du.hupucdn.com^
+||interfac*.music.163.com^
+||yxyapi2.drcuiyutao.com^
+||api.vistopia.com.cn^
+||capis-clb.didapinche.com^
+||api.jxedt.com^
+||mi.gdt.qq.com^
+||richmanapi.jxedt.com^
+||app-api.smzdm.com^
+||emdcadvertise.eastmoney.com^
+||101.201.175.228^
+||182.92.251.113^
+||api.smzdm.com^
+||api.vistopia.com.cn^
+||pi.waitwaitpay.com^
+||api.wallstreetcn.com^
+||api.weibo.cn^
+||api.xiachufang.com^
+||api.xueqiu.com^
+||api.yangkeduo.com^
+||api.zhihu.com^
+||api.zhuishushenqi.com^
+||api-mifit*.huami.com^
+||api-release.wuta-cam.com^
+||pp.58.com^
+||app.api.ke.com^
+||app.bilibili.com^
+||app.mixcapp.com^
+||app.poizon.com^
+||app.variflight.com^
+||app.wy.guahao.com^
+||app.xinpianchang.com^
+||app.yinxiang.com^
+||app.zhuanzhuan.com^
+||appapi.huazhu.com^
+||app-api.smzdm.com^
+||appconf.mail.163.com^
+||appv6.55haitao.com^
+||b.zhuishushenqi.comv^
+||business-cdn.shouji.sogou.com^
+||c.m.163.com^
+||cap.caocaokeji.cn^
+||capi.mwee.cn^
+||ccsp-egmas.sf-express.com^
+||cdn.moji.com^
+||cdnfile1.msstatic.com^
+||channel.beitaichufang.com^
+||client.mail.163.com^
+||clientaccess.10086.cn^
+||cms.daydaycook.com.cn^
+||consumer.fcbox.com^
+||creditcardapp.bankcomm.com^
+||daoyu.sdo.com^
+||dl.app.gtja.com^
+||dsa-mfp.fengshows.cn^
+||dxy.com, e.dangdang.com^
+||easyreadfs.nosdn.127.net^
+||g.cdn.pengpengla.com^
+||gateway.shouqiev.com^
+||guide-acs.m.taobao.com^
+||gw.alicdn.com^
+||gw.csdn.net^
+||gw-passenger.01zhuanche.com^
+||heic.alicdn.com^
+||i.ys7.com^
+||iapi.bishijie.com^
+||iface.iqiyi.com^
+||ih2.ireader.com^
+||imeclient.openspeech.cn^
+||img.jiemian.com^
+||img01.10101111cdn.com^
+||interface.music.163.com^
+||ios.lantouzi.com^
+||ios.wps.cn^
+||jump2.bdimg.com^
+||kaola-haitao.oss.kaolacdn.com^
+||learn.chaoxing.com^
+||list-app-m.i4.cn^
+||m*.amap.com^
+||m.client.10010.com^
+||m.ibuscloud.com^
+||m.tuniu.com^
+||m.yap.yahoo.com^
+||manga.bilibili.com^
+||mapi.mafengwo.cn^
+||media.qyer.com^
+||mlife.jf365.boc.cn^
+||mob.mddcloud.com.cn^
+||mobi.360doc.com^
+||mp.weixin.qq.com^
+||mrobot.pcauto.com.cn^
+||mrobot.pconline.com.cn^
+||ms.jr.jd.com^
+||msspjh.emarbox.com^^
+||news.ssp.qq.com^
+||newsso.map.qq.com^
+||nnapp.cloudbae.cn^
+||open.qyer.com^
+||p.du.163.com^
+||pan.baidu.com^
+||pic*.chelaile.net^
+||pic1cdn.cmbchina.com^
+||pocketuni.net^
+||portal-xunyou.qingcdn.com^
+||promo.xueqiu.com, pss.txffp.com^
+||r.inews.qq.com^
+||render.alipay.com^
+||res.xiaojukeji.com^
+||resrelease.wuta-cam.com^
+||restapi.iyunmai.com^
+||richmanapi.jxedt.com^
+||rtbapi.douyucdn.cn^
+||s*.zdmimg.com^
+||s.youtube.com^
+||service.4gtv.tv^
+||slapi.oray.net^
+||smkmp.96225.com^
+||snailsleep.net^
+||ss0.bdstatic.com^
+||ssl.kohsocialapp.qq.com^
+||static.vuevideo.net^
+||static1.keepcdn.com^
+||status.boohee.com^
+||support.you.163.com^
+||thor.weidian.com^
+||tieba.baidu.com^
+||tiku.zhan.com^
+||weibointl.api.weibo.cn^
+||www.bodivis.com.cn^
+||www.dandanzan.com^
+||www.flyertea.com^
+||www.hxeduonline.com^
+||www.icourse163.org^
+||www.iyingdi.cn^
+||www.tieba.com^
+||www.youtube.com^
+||www.zhihu.com^
+||www.zybang.com^
+||ixyz.cnki.net^
+||xyst.yuanfudao.com^
+||yxyapi*.drcuiyutao.com^
+||zhidao.baidu.com^
+||*.amemv.com^
+||*.iydsj.com^
+||*.k.sohu.com^
+||*.kakamobi.cn^
+||*.kingsoft-office-service.com^
+||*.meituan.net^
+||*.musical.ly^
+||*.ofo.com^
+||*.pstatp.com^
+||*.snssdk.com^
+||*.tiktokv.com^
+||*.tv.sohu.com^
+||*.uve.weibo.com^
+||*.ydstatic.com^
+||101.201.175.228^
+||115.159.231.79^
+||119.18.193.135^
+||123.59.31.1^
+||154.8.131.171^
+||182.92.251.113^
+||*.googlevideo.com^
+||api.weibo.cn^
+||mapi.weibo.com^
+||*.uve.weibo.com^
+||trade-acs.m.taobao.com^
+||api.m.jd.com^
+||ios.prod.ftl.netflix.com^
 
-##
-^https?://ios\.prod\.ftl\.netflix\.com/iosui/user/.+path=%5B%22videos%22%2C%\d+%22%2C%22summary%22%5D url script-request-header https://raw.githubusercontent.com/yichahucha/surge/master/nf_rating.js
-
-^https?://ios\.prod\.ftl\.netflix\.com/iosui/user/.+path=%5B%22videos%22%2C%\d+%22%2C%22summary%22%5D url script-response-body https://raw.githubusercontent.com/yichahucha/surge/master/nf_rating.js
-
-^https?://api\.m\.jd\.com/client\.action\?functionId=(wareBusiness|serverConfig|basicConfig) url script-response-body https://raw.githubusercontent.com/yichahucha/surge/master/jd_price.js
-
-^http://.+/amdc/mobileDispatch url script-request-body https://raw.githubusercontent.com/yichahucha/surge/master/tb_price.js
-
-^https?://trade-acs\.m\.taobao\.com/gw/mtop\.taobao\.detail\.getdetail url script-response-body https://raw.githubusercontent.com/yichahucha/surge/master/tb_price.js
-
-^https?://(sdk|wb)app\.uve\.weibo\.com(/interface/sdk/sdkad.php|/wbapplua/wbpullad.lua) url script-response-body https://raw.githubusercontent.com/yichahucha/surge/master/wb_launch.js
-
-^https?://m?api\.weibo\.c(n|om)/2/(statuses/(unread|extend|positives/get|(friends|video)(/|_)(mix)?timeline)|stories/(video_stream|home_list)|(groups|fangle)/timeline|profile/statuses|comments/build_comments|photo/recommend_list|service/picfeed|searchall|cardlist|page|!/(photos/pic_recommend_status|live/media_homelist)|video/tiny_stream_video_list|photo/info) url script-response-body https://raw.githubusercontent.com/yichahucha/surge/master/wb_ad.js
-
+# 
 (^https?:\/\/[\w-]+\.googlevideo\.com\/.+)(ctier=L)(&.+) url 302 $1$3
 ^https?:\/\/[\w-]+\.googlevideo\.com\/.+&(oad|ctier) url reject
 
