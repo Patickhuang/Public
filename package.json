@@ -1,20 +1,20 @@
 {
-  “ id ”： “ Patickhuang.app.sub ”，
-  “ name ”： “ Patickhuang应用订阅”，
-  “ author ”： “ @chavyleung ”，
-  “图标”： “ https://raw.githubusercontent.com/Patickhuang/Public/main/IMG_0328.JPG ”，
-  “ repo ”： “ https://github.com/Patickhuang/Public ”，
-  “应用程序”：[
+  "id": "Patickhuang.app.sub",
+  "name": "Patickhuang应用订阅",
+  "author": "@chavyleung",
+  "icon": "https://raw.githubusercontent.com/Patickhuang/Public/main/IMG_0328.JPG",
+  "repo": "https://github.com/Patickhuang/Public",
+  "apps": [
     {
-      “ id ”： “ duokan ”，
-      “ name ”： “多看阅读”，
-      “ keys ”：[ “ duokan_cookie，duokan_device_id ” ]，
-      “ author ”： “ @chavyleung ”，
-      “ repo ”： “” https://github.com/chavyleung/scripts/blob/master/duokan/duokan.js “，
-      “图标”：[ “ https://raw.githubusercontent.com/Orz-3/task/master/duokan.png ”， “ https://raw.githubusercontent.com/Orz-3/task/master/duokan。 png “ ]，
-      “脚本”： “ https://raw.githubusercontent.com/chavyleung/scripts/master/duokan/duokan.js ”
+      "id": "duokan",
+      "name": "多看阅读",
+      "keys": ["duokan_cookie，duokan_device_id"],
+      "author": "@chavyleung",
+      "repo": "https://github.com/chavyleung/scripts/blob/master/duokan/duokan.js",
+      "icons": ["https://raw.githubusercontent.com/Orz-3/task/master/duokan.png", "https://raw.githubusercontent.com/Orz-3/task/master/duokan.png"],
+      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/duokan/duokan.js"
 	}]
-}，
+},
 {
             "id": "qczjspeed",
             "name": "汽车之家极速版",
